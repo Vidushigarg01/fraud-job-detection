@@ -86,11 +86,8 @@ demo = gr.Interface(
     title="Fake Job Detector with Email Alerts",
     description="Upload a job CSV to detect fake postings. Optionally send alert emails for high-risk jobs."
 )
-demo.launch(
-    server_name="0.0.0.0", 
-    server_port=int(os.environ.get("PORT", 7860))  # Render sets the PORT env variable
-)
+
 
 if __name__ == "__main__":
-    demo.launch(share=True)
-app.run()
+    demo.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)))
+
