@@ -1,0 +1,6 @@
+title,location,department,salary_range,company_profile,description,requirements,benefits,telecommuting,has_company_logo,has_questions,employment_type,required_experience,required_education,industry,function,fraudulent
+Data Entry Clerk,New York,Admin,"$35,000 - $45,000",We are a small logistics firm.,Input shipment data into the system.,"Basic Excel skills, accuracy.","Health insurance, PTO",0,1,1,Full-time,Mid-Senior level,High School or equivalent,Logistics,Administrative,0
+Marketing Executive,Remote,Marketing,,Leading digital agency.,Promote campaigns via social media.,Digital marketing knowledge.,Flexible hours,1,1,0,Full-time,Entry level,Bachelor's degree,Marketing,Marketing,0
+Remote Work Opportunity,Mumbai,Online Surveys,,,Earn $300/day for filling simple forms.,No experience needed.,Work from home,1,0,0,,None,None,,Customer Service,1
+Software Developer,Bangalore,Engineering,₹6L - ₹9L,Top tech company hiring.,Build and maintain software tools.,"Python, Django, Git knowledge.","Meal coupons, ESOPs",0,1,1,Full-time,Mid-Senior level,Bachelor's degree,Information Technology,Engineering,0
+Work From Home Offer,Lucknow,NA,,,Get rich fast! No skills needed.,Sign up now and start earning.,NA,1,0,0,,None,None,,,1
